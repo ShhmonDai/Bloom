@@ -15,23 +15,6 @@
 &nbsp;
 
 
-<h3 align='center'>Features:</h3> 
-&nbsp;
-&nbsp;
-
-| Done  | To-Do |
-| ------------- | ------------- |
-| Dynamic P5.js Tree structure  | Implement mobile view  |
-| Bcrypt secured Login / Register  | Integrate the tree growth algorithm into profile pages  |
-| JWT authentication  | Add user notes section  |
-| MySQL database for users  | Add delete button for unwanted tasks  |
-| Local Storage for goals (temp)  | Migrate local storage to the MySQL database  |
-| Profile Pages  | Add repeatable habits functionality  |
-| Goal lists and goals  | Add deadlines  |
-| | Add ability to customize colors  |
-| | Professional and modern UI/UX  |
-
-&nbsp;
 
 HomePage:
 &nbsp;
@@ -58,3 +41,22 @@ Here we can see our goal lists. As you can see you can edit each category no mat
 &nbsp;
 
 ![IMG4](BloomReadmeImages/4Goals.jpg "IMG 4")
+
+
+<h3 align='center'>Features:</h3> 
+&nbsp;
+&nbsp;
+
+| Done  | To-Do |
+| ------------- | ------------- |
+| Dynamic P5.js Tree structure  | Implement mobile view  |
+| Bcrypt secured Login / Register  | Integrate the tree growth algorithm into profile pages  |
+| JWT authentication  | Add user notes section  |
+| MySQL database for users  | Add delete button for unwanted tasks  |
+| Local Storage for goals (temp)  | Migrate local storage to the MySQL database  |
+| Profile Pages  | Add repeatable habits functionality  |
+| Goal lists and goals  | Add deadlines  |
+| | Add ability to customize colors  |
+| | Professional and modern UI/UX  |
+
+&nbsp;
